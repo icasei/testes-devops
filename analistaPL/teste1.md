@@ -8,7 +8,7 @@
 
 ## Instruções:
 
-* **Criar uma infraestrutura na Amazon AWS utilizando o [Terraform](https://www.terraform.io/).**
+* **Criar uma infraestrutura na Amazon AWS utilizando o [Terraform](https://www.terraform.io/)**
     
     * Subir a VPC com Nat Gateway
     * Subir 3 instâncias EC2 t2.micro com EBS attached de 20GB na rede pública
