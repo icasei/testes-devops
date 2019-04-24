@@ -4,7 +4,6 @@
 
 ## Informações:
 
-* Você receberá no seu e-mail o Access Key/Secret Key para poder acessar/criar sua infraestrutura na [Amazon AWS](https://aws.amazon.com/pt/).
 * Você deverá publicar o seu projeto no GitHub e informar por e-mail o link do projeto.
 
 ## Instruções:
