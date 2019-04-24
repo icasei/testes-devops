@@ -16,7 +16,7 @@
 
 * **Construção do Cluster Docker Swarm.**
 
-    * Orquestrar o Cluster Docker Swarm utilizando o [Ansible](https://www.ansible.com/).
+    * Orquestrar o Cluster Docker Swarm utilizando o [Ansible](https://www.ansible.com/)
     * Estrutura do Cluster:
     
         * _3 Manager na rede pública_
